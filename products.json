@@ -1,0 +1,163 @@
+[
+    {
+        "filter_id":1,
+        "products":[{
+            "product_id":10,
+            "product_name":"Formal shirts",
+            "image_src":"images/shirt1.webp",
+            "Price":1200
+        },
+        {
+            "product_id":11,
+            "product_name":"Cotton shirts",
+            "image_src":"images/shirt2.jpg",
+            "Price":600
+        },
+        {
+            "product_id":12,
+            "product_name":"Formal Pants",
+            "image_src":"images/shirt3.webp",
+            "Price":900
+        },
+        {
+            "product_id":13,
+            "product_name":"Cargo Pants",
+            "image_src":"images/shirt4.jpg",
+            "Price":850
+        },
+        {
+            "product_id":14,
+            "product_name":"Blazer",
+            "image_src":"images/shirt5.jpeg",
+            "Price":3000
+        },
+        {
+            "product_id":15,
+            "product_name":"White shirt",
+            "image_src":"images/shirt6.jpeg",
+            "Price":900
+        }
+        ]
+    },
+    {
+        "filter_id":2,
+        "products":[{
+            "product_id":20,
+            "product_name":"Winter wear",
+            "image_src":"images/women1.jpg",
+            "Price":2200
+        },
+        {
+            "product_id":21,
+            "product_name":"Gown",
+            "image_src":"images/women2.webp",
+            "Price":850
+        },
+        {
+            "product_id":22,
+            "product_name":"Tops",
+            "image_src":"images/women3.webp",
+            "Price":400
+        },
+        {
+            "product_id":23,
+            "product_name":"Jackect and trouser",
+            "image_src":"images/women4.jpeg",
+            "Price":980
+        },
+        {
+            "product_id":24,
+            "product_name":"Sleeveless top",
+            "image_src":"images/women5.webp",
+            "Price":250
+        },
+        {
+            "product_id":25,
+            "product_name":"Crop top",
+            "image_src":"images/women6.jpg",
+            "Price":399
+        }
+        ]
+    },
+    {
+        "filter_id":3,
+        "products":[{
+            "product_id":30,
+            "product_name":"Salad",
+            "image_src":"images/fo1.jpg",
+            "Price":200
+        },
+        {
+            "product_id":31,
+            "product_name":"Poori",
+            "image_src":"images/fo2.jpg",
+            "Price":150
+        },
+        {
+            "product_id":32,
+            "product_name":"Pancakes",
+            "image_src":"images/fo3.jpg",
+            "Price":180
+        },
+        {
+            "product_id":33,
+            "product_name":"Frenchfries",
+            "image_src":"images/fo4.jpg",
+            "Price":99
+        },
+        {
+            "product_id":34,
+            "product_name":"Pasta",
+            "image_src":"images/fo5.jpg",
+            "Price":200
+        },
+        {
+            "product_id":35,
+            "product_name":"Fried rice",
+            "image_src":"images/fo6.jpg",
+            "Price":130
+        }
+        ]
+    },
+    {
+        "filter_id":4,
+        "products":[{
+            "product_id":40,
+            "product_name":"Oven",
+            "image_src":"images/app1.jpg",
+            "Price":3600
+        },
+        {
+            "product_id":41,
+            "product_name":"Headset",
+            "image_src":"images/app2.jpg",
+            "Price":4000
+        },
+        {
+            "product_id":42,
+            "product_name":"Hairdryer",
+            "image_src":"images/app3.jpg",
+            "Price":3800
+        },
+        {
+            "product_id":43,
+            "product_name":"Table fan",
+            "image_src":"images/app4.jpg",
+            "Price":2700
+        },
+        {
+            "product_id":44,
+            "product_name":"Water purifyer",
+            "image_src":"images/app5.jpg",
+            "Price":2500
+        },
+        {
+            "product_id":45,
+            "product_name":"Mixer grinder",
+            "image_src":"images/app6.webp",
+            "Price":4200
+        }
+        ]
+    }
+    
+]
