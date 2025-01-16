@@ -1,0 +1,216 @@
+    body{
+      background-image: url("bi.jpeg");
+      object-fit:cover;
+      background-repeat: no-repeat;
+      /*background: linear-gradient(to bottom, #FFF0E5, #b59f85);*/
+    }
+    #block{
+      box-sizing:"border-box";
+      margin:auto;
+      border:2px solid black;
+      width:1004px;
+      margin-top: 30px;
+    }
+    #banner{
+      display:block;
+      margin:auto;
+      width:1000px;
+      height:250px;
+    }
+
+    .navbar{
+      margin:auto;
+      width:1000px;
+      background-color: #e0c7b5;
+      color:#aa8cbb
+    }
+
+    #container{
+      width:1000px;
+      height:400px;
+      border:2px solid black;
+      
+    }
+      
+    #myCarousel{
+      width:1000px;
+      /*margin-left:55px;*/
+    }
+
+    .carousel-item img{
+      width:480px;
+      height:400px;
+      border:2px solid;
+      margin-top: 15px;
+      margin-bottom: 5px;
+    }
+
+    .new{
+      width:303px;
+      height:310px;
+      border-radius: 5px;
+      border:2px solid #d28d44;
+      margin-bottom:10px;
+      margin-top:10px;
+      box-shadow: 5px 5px 2px #baa48d;
+    }
+
+    .new img{
+      width:300px;
+      height:220px;
+      
+    }
+
+    .new:hover{
+      box-shadow: 13px 13px 8px #baa48d;
+    }
+
+    .new p{
+      font-size: 15px;
+      font-weight: bold;
+    }
+
+    .new .box .btn{
+      background-color:#e0c7b5;
+      font-weight: 15%;
+    }
+    .container{
+      display:flex;
+      flex-wrap: wrap;
+      text-align: center;
+      justify-content: space-between;
+    }
+
+    .carousel-item {
+      text-align:center;
+    }
+/*
+    .new span{
+      margin-left:-110px;
+    }
+
+    .new button{
+      margin-right:2px;
+      
+      
+    }*/
+
+    .new .box{
+      display:flex;
+      justify-content: space-between;
+      padding:2px;
+      text-align: center;
+    }
+
+    #cart{
+        position:absolute;
+        top:0;
+        right:0;
+        background-color: #e5d1bc;
+        border:2px solid #d28d44;
+        max-height: 1000px;
+        overflow-y: scroll;
+        /* margin-top: 20px; */
+    }
+
+    #finalBill{
+      position:absolute;
+      top:0;
+      text-align: center;
+      background-color: #eee1d3;
+      border:2px solid #d28d44;
+      width:800px;
+      margin-top: 50px;
+  }
+
+    .item{
+        border-bottom: 2px solid #d28d44;
+    }
+
+    table{
+      width:100%;
+      height:100px;
+      margin:auto;
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+
+    th,td{
+      width:20%;
+      text-align:center;
+      border: 1px solid black;
+      height:50px;
+      padding:7px;
+    }
+/*
+    #bankInfo{
+      display: none;
+      position:absolute;
+      top:600px;
+      left:50px;
+      width:700px;
+      padding:15px;
+      border-radius:8px;
+      font-size:larger;
+      background-color: #eee1d3;
+    }*/
+
+    #billTable{
+      position: absolute;
+      top:0;
+      /*left:500px;
+      z-index:2;*/
+      background-color: #e5d1bc;
+      width:900px;
+      padding:5px;
+      border-radius:3px;
+      max-height: 500px;
+      overflow-y: scroll;
+    }
+
+    #bankInfo{
+      /* margin-top:800px; */
+      left:50px;
+      margin-left:20px;
+      position:absolute;
+      top:750px; /* -7*/
+      background-color: #eee1d3;
+      width:700px;
+      padding:10px;
+      border-radius:8px;
+      font-size:large;
+      display:none;
+    }
+
+    #bankInfo img{
+      height:40px;
+      width:40px;
+      margin-left:8px;
+      margin-top:8px;
+    }
+
+    #cardDetail{
+      float:left;
+      margin-top:10px;
+      margin-left:0px;
+    }
+
+    #bankInfo input{
+      border:1px solid black;
+      border-radius: 3px;
+      width:40px;
+      
+    }
+
+    #flexContainer{
+      padding: 10px 10px 10px 10px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 3px;
+      background-color: rgb(238, 185, 167);
+      color: white;
+    }
+
+    
